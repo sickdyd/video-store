@@ -1,0 +1,8 @@
+{
+  "name": "video-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roberto Josef Antonio Reale",
+  "license": "MIT",
+  "private": true
+}
