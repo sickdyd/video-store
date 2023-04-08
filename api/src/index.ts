@@ -1,6 +1,6 @@
 import dotenv from 'dotenv'
 import express, { Express } from 'express'
-import { v1Router } from './v1/'
+import { v1Router } from './v1'
 
 dotenv.config()
 

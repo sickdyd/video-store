@@ -1,1 +1,6 @@
-version: "3.8"
+version: '3.8'
+services:
+  api:
+    build: /api
+    ports:
+      - '8080:8080'
